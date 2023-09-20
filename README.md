@@ -8,7 +8,7 @@ The applicetion "facens" is used to blur unwanted faces from your desired photo 
 
 This application uses Python as the base of the app. To use it, you need libraries <code>opencv-python</code>. For now, as the program is developed by FelixTEK, more libraries can appear in use, and the list will grow. For now, install the libraries from <code>pip</code> as specified.
 
-## Thai
+## ภาษาไทย
 
 แอปพลิเคชัน facens มีไว้เบลอหน้าคนที่ไม่อยากให้แสดงหน้าในรูปภาพ และเซฟออกมาเป็นภาพที่เบลอแล้วได้ โดยในขณะนี้ ฟังก์ชั่นการเซฟภาพยังอยู่ในระหว่างการพัฒนา
 
